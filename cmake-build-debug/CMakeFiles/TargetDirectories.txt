@@ -1,0 +1,3 @@
+C:/Users/julih/CLionProjects/sortStack/cmake-build-debug/CMakeFiles/sortStack.dir
+C:/Users/julih/CLionProjects/sortStack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julih/CLionProjects/sortStack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
